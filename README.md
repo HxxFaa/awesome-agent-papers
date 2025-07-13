@@ -10,9 +10,9 @@
         
 2025/02 **Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research** [[paper]](https://arxiv.org/pdf/2502.04644) [[code]](https://github.com/theworldofagents/Agentic-Reasoning)
 
-2025/03 **Toward LLM-Agent-Based Modeling of Transportation Systems: A Conceptual Framework//交通** [[paper]]([https://www.arxiv.org/pdf/2505.01441](https://arxiv.org/html/2412.06681))
+2024/12 **Toward LLM-Agent-Based Modeling of Transportation Systems: A Conceptual Framework//交通** [[paper]](https://arxiv.org/html/2412.06681)
 
-2025/05 **Beyond the Tragedy of the Commons: Building A Reputation System for Generative Multi-agent Systems//谣言** [[paper]]https://arxiv.org/html/2505.05029)
+2025/05 **Beyond the Tragedy of the Commons: Building A Reputation System for Generative Multi-agent Systems//谣言** [[paper]](https://arxiv.org/html/2505.05029)
 
 2025/07 **MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent//记忆** [[paper]]https://arxiv.org/html/2507.02259) [[code]](https://memagent-sialab.github.io/)
 
@@ -20,7 +20,7 @@
 
 2025/05 **RAIDEN-R1: Improving Role-awareness of LLMs via GRPO with Verifiable Reward** [[paper]](https://arxiv.org/pdf/2505.10218)
 
-2025/05 **Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution** [[paper]]((https://arxiv.org/abs/2505.20286))
+2025/05 **Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution** [[paper]](https://arxiv.org/abs/2505.20286)
 
 
 ## Social Simulation & Agent Societies
