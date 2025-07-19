@@ -45,6 +45,10 @@
 
 ## 🧠 心理学与认知
 
+### 2025 **A foundation model to predict and capture human cognition**
+- **摘要**: 提出了一个预测和捕获人类认知的基础模型
+- [[paper]](https://www.nature.com/articles/s41586-025-09215-4)
+
 ### 2024/12 **Computational analysis of 100 K choice dilemmas: Decision attributes, trade-off structures, and model-based prediction**
 - **摘要**: 对10万个选择困境进行计算分析，研究决策属性、权衡结构和基于模型的预测
 - [[paper]](https://www.pnas.org/doi/10.1073/pnas.2406489122)
@@ -52,6 +56,14 @@
 ---
 
 ## 🌐 社会模拟与Agent社会
+
+### 2025/07 **An Explainable Emotion Alignment Framework for LLM-empowered Agent in Metaverse Service Ecosystem**
+- **摘要**: 提出了元宇宙服务生态系统中LLM赋能Agent的可解释情感对齐框架
+- [[paper]](https://mp.weixin.qq.com/s/bX_90x9Ye50uftHypP7R8Q)
+
+### 2025/07 **A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**
+- **摘要**: 通过基于LLM的Agent意图挖掘来分析服务生态系统中异常涌现的框架
+- [[paper]](https://mp.weixin.qq.com/s/bX_90x9Ye50uftHypP7R8Q)
 
 ### 2025/05 **Beyond the Tragedy of the Commons: Building A Reputation System for Generative Multi-agent Systems**
 - **摘要**: 为生成式多Agent系统构建声誉系统，解决公地悲剧问题
@@ -153,7 +165,7 @@
 
 ## 📈 统计信息
 
-- **总论文数**: 25篇
+- **总论文数**: 28篇
 - **涵盖领域**: 8个主要类别
 - **时间跨度**: 2023-2025年
 - **最新更新**: 2025年7月
