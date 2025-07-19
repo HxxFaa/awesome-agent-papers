@@ -22,6 +22,8 @@
 
 2025/05 **Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution** [[paper]](https://arxiv.org/abs/2505.20286)
 
+2024/XX **Computational analysis of 100 K choice dilemmas: Decision attributes, trade-off structures, and model-based prediction** [[paper]](LINK_NEEDED) [[code]](LINK_NEEDED)
+
 
 ## Social Simulation & Agent Societies
 
