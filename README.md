@@ -33,6 +33,10 @@
 - **摘要**: 提出了基于LLM-Agent的交通系统建模概念框架，为智能交通系统仿真和优化提供新的思路和方法
 - [[paper]](https://arxiv.org/html/2412.06681)
 
+### 2024 **Can Large Language Models Capture Human Travel Behavior? Evidence and Insights on Mode Choice**
+- **摘要**: 探索大型语言模型能否有效捕捉和预测人类出行行为模式，特别关注交通方式选择的决策机制，为交通规划和政策制定提供新的AI驱动视角
+- [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4937575)
+
 ---
 
 ## 🏥 医疗健康
@@ -165,7 +169,7 @@
 
 ## 📈 统计信息
 
-- **总论文数**: 29篇
+- **总论文数**: 30篇
 - **涵盖领域**: 8个主要类别
 - **时间跨度**: 2023-2025年
 - **最新更新**: 2025年7月
