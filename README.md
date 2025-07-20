@@ -29,6 +29,10 @@
 
 ## 🚗 交通系统
 
+### 2025/05 **Aligning LLM with human travel choices: a persona-based embedding learning approach**
+- **摘要**: 提出了一种基于角色的嵌入学习方法，用于将大语言模型与人类出行选择行为对齐，通过个性化建模提升LLM在交通决策预测中的准确性和可解释性
+- [[paper]](https://arxiv.org/html/2505.19003v1#S6.F5)
+
 ### 2024/12 **Toward LLM-Agent-Based Modeling of Transportation Systems: A Conceptual Framework**
 - **摘要**: 提出了基于LLM-Agent的交通系统建模概念框架，为智能交通系统仿真和优化提供新的思路和方法
 - [[paper]](https://arxiv.org/html/2412.06681)
@@ -169,7 +173,7 @@
 
 ## 📈 统计信息
 
-- **总论文数**: 30篇
+- **总论文数**: 31篇
 - **涵盖领域**: 8个主要类别
 - **时间跨度**: 2023-2025年
 - **最新更新**: 2025年7月
