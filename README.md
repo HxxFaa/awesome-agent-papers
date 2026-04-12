@@ -204,7 +204,7 @@
 ### 2024/11 **Generative Agent Simulations of 1,000 People**
 - **摘要**: 提出新型 Agent 架构，将 LLM 与 1052 名真实个体的两小时定性访谈结合，构建个性化生成 Agent；生成 Agent 在 General Social Survey 上以 85% 准确率复现受访者两周后的自我回答，在人格特征和实验结果预测上表现可比，且相比仅使用人口统计描述的方法显著减少了种族和意识形态偏差。
 
-### 2026/02 ★ **PS²: Parameterized Control for Fine-Grained Student Proficiency Simulation**
+### 2026/02 ⭐️⭐️ **PS²: Parameterized Control for Fine-Grained Student Proficiency Simulation**
 - **摘要**: 提出 PS² 框架，通过参数化控制实现对学生能力水平的细粒度模拟，支持教育评估系统中对不同学业水平学生进行可控、可调节的 AI 仿真，为智能教育测评提供了更精准的学生行为建模方法。
 - [[paper]](https://arxiv.org/abs/2602.00850)
 
