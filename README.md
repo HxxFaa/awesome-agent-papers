@@ -12,6 +12,7 @@
 - [🛠️ 工具学习与强化学习](#️-工具学习与强化学习)
 - [🎭 角色扮演与记忆](#-角色扮演与记忆)
 - [📊 金融与市场](#-金融与市场)
+- [🆕 2026 用户补充条目](#-2026-用户补充条目)
 
 ---
 
@@ -171,12 +172,81 @@
 
 ---
 
+## 🆕 2026 用户补充条目
+
+> 说明：以下条目按你提供的信息录入；仅保留可查询事实，不补造作者/单位/结论。  
+> arXiv 编号条目统一标注为 **[arXiv 预印本]**；第 10、12 项因“见图片”但当前未收到图片内容，暂无法录入。
+
+### 2026/04 **[待补充标题] arXiv:2604.03259**  [arXiv 预印本]
+- **摘要**: 用户提供了 arXiv 链接，当前条目先按编号收录。
+- [[paper]](https://arxiv.org/abs/2604.03259)
+
+### [待补充年月] **Predicting human decisions with behavioural theories and machine learning**  [会议/期刊：待核验]
+- **摘要**: 研究利用行为理论与机器学习预测人类决策。
+- [[query]](https://scholar.google.com/scholar?q=Predicting+human+decisions+with+behavioural+theories+and+machine+learning)
+
+### 2026/03 **[待补充标题] arXiv:2603.25187**  [arXiv 预印本]
+- **摘要**: 用户提供了 arXiv 编号，当前条目先按编号收录。
+- [[paper]](https://arxiv.org/abs/2603.25187)
+
+### [待补充年月] **Lost in Simulation: LLM-Simulated Users are Unreliable Proxies for Human Users in Agentic Evaluations**  [会议/期刊：待核验]
+- **摘要**: 讨论在 Agent 评测中，LLM 模拟用户作为人类代理的不可靠性问题。
+- [[query]](https://scholar.google.com/scholar?q=Lost+in+Simulation%3A+LLM-Simulated+Users+are+Unreliable+Proxies+for+Human+Users+in+Agentic+Evaluations)
+
+### 2026/03 **[待补充标题] arXiv:2603.28066**  [arXiv 预印本]
+- **摘要**: 用户提供了 arXiv 编号，当前条目先按编号收录。
+- [[paper]](https://arxiv.org/abs/2603.28066)
+
+### 2026/03 **[待补充标题] arXiv:2603.19649v1**  [arXiv 预印本]
+- **摘要**: 用户提供了 arXiv 链接，当前条目先按编号收录。
+- [[paper]](https://arxiv.org/abs/2603.19649)
+
+### 2026/04 **[待补充标题] arXiv:2604.01520**  [arXiv 预印本]
+- **摘要**: 用户提供了 arXiv 编号，当前条目先按编号收录。
+- [[paper]](https://arxiv.org/abs/2604.01520)
+
+### 2025/10 **[待补充标题] arXiv:2510.08529**  [arXiv 预印本]
+- **摘要**: 用户提供了 arXiv 链接，当前条目先按编号收录。
+- [[paper]](https://arxiv.org/abs/2510.08529)
+
+### [待补充年月] **LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation**  [会议/期刊：待核验]
+- **摘要**: 提出用于个性化助手评测的长时程用户生活模拟器。
+- [[query]](https://scholar.google.com/scholar?q=LifeSim%3A+Long-Horizon+User+Life+Simulator+for+Personalized+Assistant+Evaluation)
+
+### [待补充] **第10项：见图片**
+- **状态**: 未收到图片内容，暂无法核验并录入论文信息。
+
+### [待补充年月] **HumanLLM: Towards Personalized Understanding and Simulation of Human Nature**  [会议/期刊：待核验]
+- **摘要**: 面向“人性”个体化理解与模拟的人类建模方向工作。
+- [[query]](https://scholar.google.com/scholar?q=HumanLLM%3A+Towards+Personalized+Understanding+and+Simulation+of+Human+Nature)
+
+### [待补充] **第12项：见图片**
+- **状态**: 未收到图片内容，暂无法核验并录入论文信息。
+
+### [待补充年月] **gen agent simulation of a 1000 people**  [会议/期刊：待核验]
+- **摘要**: 用户提供了题名关键词，指向千人规模生成式 Agent 社会模拟方向。
+- [[query]](https://scholar.google.com/scholar?q=gen+agent+simulation+of+a+1000+people)
+
+### 2026/02 ⭐️⭐️ **PS^2: Parameterized Control for Fine-Grained Student Proficiency Simulation**  [arXiv 预印本，重点标记]
+- **摘要**: 面向细粒度学生能力仿真的参数化控制方法（重点关注）。
+- [[paper]](https://arxiv.org/abs/2602.00850)
+
+### 2026/02 **[待补充标题] arXiv:2602.11664**  [arXiv 预印本]
+- **摘要**: 用户提供了 arXiv 链接，当前条目先按编号收录。
+- [[paper]](https://arxiv.org/abs/2602.11664)
+
+### [待补充年月] **This human study did not involve human subjects: Validating LLM simulations as behavioral evidence**  [会议/期刊：待核验]
+- **摘要**: 探讨将 LLM 仿真作为行为证据进行验证的有效性与边界。
+- [[query]](https://scholar.google.com/scholar?q=This+human+study+did+not+involve+human+subjects%3A+Validating+LLM+simulations+as+behavioral+evidence)
+
+---
+
 ## 📈 统计信息
 
-- **总论文数**: 31篇
+- **总论文数**: 45篇（含本次新增14条；第10/12项待补图后补录）
 - **涵盖领域**: 8个主要类别
-- **时间跨度**: 2023-2025年
-- **最新更新**: 2025年7月
+- **时间跨度**: 2023-2026年
+- **最新更新**: 2026年4月
 
 ---
 
