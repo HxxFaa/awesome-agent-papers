@@ -174,76 +174,48 @@
 
 ## 🆕 2026 用户补充条目
 
-> 说明：以下条目按你提供的信息录入；仅保留可查询事实，不补造作者/单位/结论。  
-> arXiv 编号条目统一标注为 **[arXiv 预印本]**；第 10、12 项因“见图片”但当前未收到图片内容，暂无法录入。
+### 2025/07 **Predicting human decisions with behavioural theories and machine learning**  [Nature Human Behaviour 2025]
+- **摘要**: 提出 BEAST-GB 混合模型，将行为决策理论（BEAST）与梯度提升机器学习相结合，在风险不确定条件下预测人类决策。在 CPC18 公开竞赛中获胜；在两个大型数据集上优于纯神经网络及数十种行为模型；在跨情境泛化上表现突出，并能反哺改进行为理论本身。
 
-### 2026/04 **[待补充标题] arXiv:2604.03259**  [arXiv 预印本]
-- **摘要**: 用户提供了 arXiv 链接，当前条目先按编号收录。
-- [[paper]](https://arxiv.org/abs/2604.03259)
+### 2026/03 **Probing the Lack of Stable Internal Beliefs in LLMs**
+- **摘要**: 设计了类二十问谜题范式，探究 LLM 能否在多轮交互中维持隐式一致性（坚守未明说的目标）。发现除非在上下文中明确给出已选目标，LLM 难以保持潜在目标的跨轮一致性，其隐式目标会随对话推进而漂移，揭示了构建人格驱动 LLM 的关键局限。
 
-### [待补充年月] **Predicting human decisions with behavioural theories and machine learning**  [会议/期刊：待核验]
-- **摘要**: 研究利用行为理论与机器学习预测人类决策。
-- [[query]](https://scholar.google.com/scholar?q=Predicting+human+decisions+with+behavioural+theories+and+machine+learning)
+### 2026/01 **Lost in Simulation: LLM-Simulated Users are Unreliable Proxies for Human Users in Agentic Evaluations**
+- **摘要**: 通过对美国、印度、肯尼亚、尼日利亚用户的实证研究，在 τ-Bench 零售任务上比较 LLM 模拟用户与真实用户的差距。发现模拟用户缺乏鲁棒性（成功率差异最高达 9 个百分点），且会系统性地错误校准 Agent 表现；AAVE（非裔美国口语）和印度英语使用者受影响尤为明显；模拟用户还会引入真实用户所没有的对话伪迹。
 
-### 2026/03 **[待补充标题] arXiv:2603.25187**  [arXiv 预印本]
-- **摘要**: 用户提供了 arXiv 编号，当前条目先按编号收录。
-- [[paper]](https://arxiv.org/abs/2603.25187)
+### 2026/03 **Synonymix: Unified Group Personas for Generative Simulations**  [CHI 2026 Extended Abstracts]
+- **摘要**: 提出 Synonymix 管道，通过图抽象与合并从多个生活故事人设中构建统一图（unigraph），实现介于个体与群体之间的中观层级（meso-level）仿真；在 General Social Survey 项目上验证了行为信号的保留效果（p<0.001，r=0.59），并具备可量化的隐私保障（最大来源贡献率 <13%）。
 
-### [待补充年月] **Lost in Simulation: LLM-Simulated Users are Unreliable Proxies for Human Users in Agentic Evaluations**  [会议/期刊：待核验]
-- **摘要**: 讨论在 Agent 评测中，LLM 模拟用户作为人类代理的不可靠性问题。
-- [[query]](https://scholar.google.com/scholar?q=Lost+in+Simulation%3A+LLM-Simulated+Users+are+Unreliable+Proxies+for+Human+Users+in+Agentic+Evaluations)
+### 2026/03 **PolicySim: An LLM-Based Agent Social Simulation Sandbox for Proactive Policy Optimization**
+- **摘要**: 提出 PolicySim，一个基于 LLM Agent 的社会仿真沙盒，在推荐算法、内容过滤等平台干预策略部署前主动评估其对舆论极化和回声室效应的影响，弥补了传统 A/B 测试只能事后检测风险的不足，并将真实平台反馈整合进仿真循环。
 
-### 2026/03 **[待补充标题] arXiv:2603.28066**  [arXiv 预印本]
-- **摘要**: 用户提供了 arXiv 编号，当前条目先按编号收录。
-- [[paper]](https://arxiv.org/abs/2603.28066)
+### 2026/04 **LLM Agents as Social Scientists: A Human-AI Collaborative Platform for Social Science Automation**
+- **摘要**: 提出了一个将 LLM Agent 引入社会科学研究流程的人机协作平台，实现假设生成、实验设计、数据收集与分析等环节的自动化，旨在降低社会科学研究门槛、提升研究效率，并探讨 AI 辅助科学发现在人类行为研究中的应用边界与方法论挑战。
 
-### 2026/03 **[待补充标题] arXiv:2603.19649v1**  [arXiv 预印本]
-- **摘要**: 用户提供了 arXiv 链接，当前条目先按编号收录。
-- [[paper]](https://arxiv.org/abs/2603.19649)
+### 2025/10 **CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards**
+- **摘要**: 提出 CoMAS 框架，通过 Agent 间讨论动态产生内在奖励，以强化学习实现多 Agent 系统的自主协同进化，无需外部监督信号。模拟人类在互动协作中学习进步的机制，实验表明 CoMAS 能有效驱动去中心化、可扩展的 Agent 能力提升。
 
-### 2026/04 **[待补充标题] arXiv:2604.01520**  [arXiv 预印本]
-- **摘要**: 用户提供了 arXiv 编号，当前条目先按编号收录。
-- [[paper]](https://arxiv.org/abs/2604.01520)
+### 2026/03 **LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation**
+- **摘要**: 提出 LifeSim 用户模拟器，基于 BDI（信念-欲望-意图）认知模型在物理环境中模拟用户生活轨迹与意图驱动的交互行为；推出 LifeSim-Eval 基准，覆盖 8 个生活领域、1200 个多样场景，以多轮交互方式评估个性化助手，揭示了当前 LLM 在长时程隐式意图理解上的显著局限。
 
-### 2025/10 **[待补充标题] arXiv:2510.08529**  [arXiv 预印本]
-- **摘要**: 用户提供了 arXiv 链接，当前条目先按编号收录。
-- [[paper]](https://arxiv.org/abs/2510.08529)
+### 2026/01 **HumanLLM: Towards Personalized Understanding and Simulation of Human Nature**
+- **摘要**: 提出 HumanLLM 基础模型，构建认知基因组数据集——从 Reddit、Twitter、Blogger 等平台抓取超 550 万条用户日志，提炼用户画像、行为与思维模式，再通过多任务监督微调使模型能预测个性化行为、思想和写作风格；在社会智能基准上取得领先性能，并展示出跨域泛化能力。
 
-### [待补充年月] **LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation**  [会议/期刊：待核验]
-- **摘要**: 提出用于个性化助手评测的长时程用户生活模拟器。
-- [[query]](https://scholar.google.com/scholar?q=LifeSim%3A+Long-Horizon+User+Life+Simulator+for+Personalized+Assistant+Evaluation)
+### 2024/11 **Generative Agent Simulations of 1,000 People**
+- **摘要**: 提出新型 Agent 架构，将 LLM 与 1052 名真实个体的两小时定性访谈结合，构建个性化生成 Agent；生成 Agent 在 General Social Survey 上以 85% 准确率复现受访者两周后的自我回答，在人格特征和实验结果预测上表现可比，且相比仅使用人口统计描述的方法显著减少了种族和意识形态偏差。
 
-### [待补充] **第10项：见图片**
-- **状态**: 未收到图片内容，暂无法核验并录入论文信息。
-
-### [待补充年月] **HumanLLM: Towards Personalized Understanding and Simulation of Human Nature**  [会议/期刊：待核验]
-- **摘要**: 面向“人性”个体化理解与模拟的人类建模方向工作。
-- [[query]](https://scholar.google.com/scholar?q=HumanLLM%3A+Towards+Personalized+Understanding+and+Simulation+of+Human+Nature)
-
-### [待补充] **第12项：见图片**
-- **状态**: 未收到图片内容，暂无法核验并录入论文信息。
-
-### [待补充年月] **gen agent simulation of a 1000 people**  [会议/期刊：待核验]
-- **摘要**: 用户提供了题名关键词，指向千人规模生成式 Agent 社会模拟方向。
-- [[query]](https://scholar.google.com/scholar?q=gen+agent+simulation+of+a+1000+people)
-
-### 2026/02 ⭐️⭐️ **PS^2: Parameterized Control for Fine-Grained Student Proficiency Simulation**  [arXiv 预印本，重点标记]
-- **摘要**: 面向细粒度学生能力仿真的参数化控制方法（重点关注）。
+### 2026/02 ⭐️⭐️ **PS²: Parameterized Control for Fine-Grained Student Proficiency Simulation**
+- **摘要**: 提出 PS² 框架，通过参数化控制实现对学生能力水平的细粒度模拟，支持教育评估系统中对不同学业水平学生进行可控、可调节的 AI 仿真，为智能教育测评提供了更精准的学生行为建模方法。
 - [[paper]](https://arxiv.org/abs/2602.00850)
 
-### 2026/02 **[待补充标题] arXiv:2602.11664**  [arXiv 预印本]
-- **摘要**: 用户提供了 arXiv 链接，当前条目先按编号收录。
-- [[paper]](https://arxiv.org/abs/2602.11664)
-
-### [待补充年月] **This human study did not involve human subjects: Validating LLM simulations as behavioral evidence**  [会议/期刊：待核验]
-- **摘要**: 探讨将 LLM 仿真作为行为证据进行验证的有效性与边界。
-- [[query]](https://scholar.google.com/scholar?q=This+human+study+did+not+involve+human+subjects%3A+Validating+LLM+simulations+as+behavioral+evidence)
+### 2026/02 **This human study did not involve human subjects: Validating LLM simulations as behavioral evidence**
+- **摘要**: 梳理了将 LLM 用作社会科学实验合成受访者的现有验证实践，区分启发式和统计校准两种策略：前者通过 Prompt 工程使 LLM 响应与人类行为近似互换，但缺乏形式统计保证；后者结合少量人类数据进行统计调整，在显式假设下可保证估计有效性并降低成本。为确认性研究中 LLM 仿真的可信使用提供了方法论框架。
 
 ---
 
 ## 📈 统计信息
 
-- **总论文数**: 45篇（含本次新增14条；第10/12项待补图后补录）
+- **总论文数**: 43篇
 - **涵盖领域**: 8个主要类别
 - **时间跨度**: 2023-2026年
 - **最新更新**: 2026年4月
